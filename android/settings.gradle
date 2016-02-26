@@ -1,0 +1,3 @@
+rootProject.name = 'aroundme'
+
+include ':app'
